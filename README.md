@@ -4,4 +4,4 @@
 4) Pandas ( different functions)
 5) Data Cleaning
 6) Handling Missing Data
-7) SQL Query (Submitted)
+7) SQL Query (Inner Join, Left Join)
